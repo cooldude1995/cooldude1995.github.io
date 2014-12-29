@@ -1,0 +1,13 @@
+{%include header.html %}
+{%include navbar_T.html %}
+<div class="container-fluid" >
+    <div class="row">
+     <div class="col-xs-8 sty1" style="background-color:rgb(230,230,250);background-image: url(data/img/logo_navy.png);background-size: 700px 700px;background-repeat: no-repeat;background-origin: content-box; background-position: center center;padding:40px;border: 6px groove red;">    
+    {{ content }}
+    </div>
+    <div class="col-xs-4 sty1" style="background:lavenderblush;padding:10px;border: 6px groove DarkMagenta;">
+        {% include sidebar.html %}
+    </div>
+</div>
+{%include navbar_B.html %}
+{%include footer.html %}

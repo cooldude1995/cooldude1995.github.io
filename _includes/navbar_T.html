@@ -1,0 +1,27 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+	<div class="navbar-header">
+      
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/" STYLE="padding:8px;"><img src="/data/img/head.png">INDIAN NAVY</a>
+	</div>
+          <div class="navbar-collapse collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="/">Home</a></li>
+	      <li><a href="/data/about/">About</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/data/signup/"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+              <li data-toggle="collapse" data-target="#login"><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+		{%include login.html%}
+                </li>
+	    </ul>
+		
+            
+          </div>
+        </div>
+      </nav>
