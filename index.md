@@ -2,7 +2,7 @@
 layout: default
 title: YOUR NAVY MAIN PAGE
 ---
-<marquee style="background:darkturquoise;font-size:1.25em;border:violet 3px SOLID;" behavior="alternate"><a href="/data/signup/" STyle="color:deeppink;">Join now to be one amongst the greatest YOURS!!!!</a></MARQUEE>
+<marquee style="background:darkturquoise;font-size:1.25em;border:violet 3px SOLID;" behavior="alternate"><a href="/data/signup/" STyle="color:deeppink;">Join now to be one amongst the greatest INDIANS!!!!</a></MARQUEE>
 <object width="500" height="350" data="//www.youtube.com/embed/PpA_CJoHsr4" frameborder="0" allowfullscreen align="middle"></object>
 
 #The YOUR Navy as a Career
